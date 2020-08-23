@@ -1,0 +1,32 @@
+
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+ 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #aeafad;
+  padding: 10px;
+}
+.card {
+  box-shadow: 4px 8px 16px 0 gray;
+  transition: 0.3s;
+  width: 25%;
+  margin :10px;
+}
+.circle {
+  border: 1px solid lightgray;
+  border-radius: 50%;
+  width: 300px;
+  height: 200px;
+  margin-left: 25%;
+  padding-top: 15%;
+  padding-left : 19%
+}
+.sidebar{
+  height: 559px;
+  background-color: midnightblue;
+  width: 200px;
+  margin-left: -70px;
+  padding: 30px;
+  margin-top: -20px;
+}
