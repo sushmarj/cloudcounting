@@ -2,7 +2,7 @@
 
 ###  `React Application`
 
-
+Created a simple web application with an login page to navigate to Main page of application which contains two API calls, that access the API remotely and display particular data with help of CSS style and display only the selected data in the main page.
 
 
 ## Installation and Launch
