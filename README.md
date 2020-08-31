@@ -14,7 +14,7 @@ Go into the cloudcounting-master.zip folder and Extract the whole content to clo
 
 To install node modules in the project which is used to run the compilation context for the project. After node modules is installed properly then it's good to go for execution the project.
 
-### `npm run dev`
+### `npm start
 
 Runs the app in the project directory .<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
